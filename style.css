@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#btn-connectus{
+    background: #1090CB;
+    color: #fff;
+}
+#text_logo{
+    color: #1090CB;
+}
+#banner{
+    background-image: url(img/banner-bg1.png);
+}
+.banner-text{
+    color: #1090CB;
+}
+#banner-btn{
+    background-color: #1090CB;
+    color: #fff;
+}
+#banner-btn2{
+    border: solid #1090CB 2px;
+    color: #1090CB;
+}
+#img-bg{
+    background-color: #1090cb88;
+    border-radius: 10%;
+}
+#Lorem-text{
+    margin-bottom: 5%;
+}
+#services-text{
+    color: #1090CB;
+}
+#img-bg-ser{
+    background-color: #08D3BB;
+    border-radius: 50%;
+}
+#alarm-section{
+    background-color: #F4F4F4;
+    border-radius: 3%;
+}
+#alarm-section2{
+    background-color: #1090CB;
+    border-radius: 3%;
+}
+#View-More1{
+    background-color: #1090CB;
+    color: #fff;
+}
+#View-More2{
+    background-color: #ffffff;
+    color: #1090CB;
+}
+#banner-email{
+    background-image: url(img/banner-bg1.png);
+}
+#text-email{
+    margin-top: 7%;
+}
